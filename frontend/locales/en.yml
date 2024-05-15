@@ -1,0 +1,5 @@
+en:
+  bulk_import:
+    error:
+      enum_1: "[%{what}] is not a valid DAO Type. This field was not added to the record."
+      enum_2: "[%{what}] is not a valid Digital Preservation Level. This field was not added to the record."
